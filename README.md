@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahi Rana
+- 👋Hi, i'm Mahi Rana!
 - 👀 I’m interested in MERN Devlopment, Machine Learning and Deep Learning.
 - 🌱 I’m currently learning MERN Development.
 - 💞️ I’m looking to collaborate on MERN projects and frontend projects.
